@@ -1,4 +1,34 @@
 body {
-    background: #696969;
-    color: #191919;
+    background: #262626;
+    /* color: #9d9d9d; */
+    color: deeppink;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1 {
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    margin-bottom: 0.5em;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px;
+}
+
+.post {
+    border: 1px solid gray;
+    margin: 2em 0;
+    padding: 2em;
 }

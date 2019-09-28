@@ -28,14 +28,24 @@ p {
 }
 
 .post {
-    border: 1px solid gray;
+    /* border: 1px solid deeppink; */
     margin: 2em 0;
-    padding: 2em;
+    box-shadow: 0 5px 10px 0 #131313;
+    /* padding: 2em; */
 }
     
 .header {
+    background: deeppink;
+    color: #262626;
+    height: 60px;
+    width: 100%;
     font-size: 2em;
+    line-height: 2em;
     font-weight: 400;
     letter-spacing: 0.2em;
     text-align: center;
+}
+
+.body {
+    padding: 1em 2em;
 }

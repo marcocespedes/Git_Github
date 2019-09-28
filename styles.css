@@ -33,18 +33,18 @@ p {
     box-shadow: 0 5px 10px 0 #131313;
 }
     
-.header {
-    background: deeppink;
-    color: #262626;
-    height: 60px;
-    width: 100%;
-    font-size: 2em;
-    line-height: 2em;
-    font-weight: 400;
-    letter-spacing: 0.2em;
-    text-align: center;
-}
+    .header {
+        background: deeppink;
+        color: #262626;
+        height: 60px;
+        width: 100%;
+        font-size: 2em;
+        line-height: 2em;
+        font-weight: 400;
+        letter-spacing: 0.2em;
+        text-align: center;
+    }
 
-.body {
-    padding: 1em 2em;
-}
+    .body {
+        padding: 1.5em 2em;
+    }

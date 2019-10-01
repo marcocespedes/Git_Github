@@ -35,7 +35,7 @@ p {
     
     .header {
         background: deeppink;
-        color: #262626;
+        color: darkslategray;
         height: 60px;
         width: 100%;
         font-size: 2em;
@@ -48,7 +48,7 @@ p {
     }
 
         svg {
-            margin-right: 10px;
+            margin-right: 20px;
             width: 40px;
         }
 
